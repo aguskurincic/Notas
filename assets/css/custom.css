@@ -1,0 +1,14 @@
+h1, h2 {
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-nota,
+.borrar-nota:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
